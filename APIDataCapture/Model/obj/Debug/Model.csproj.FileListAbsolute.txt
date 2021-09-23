@@ -1,0 +1,6 @@
+C:\Users\danny\source\repos\APIDataCapture\Model\bin\Debug\Model.dll
+C:\Users\danny\source\repos\APIDataCapture\Model\bin\Debug\Model.pdb
+C:\Users\danny\source\repos\APIDataCapture\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\APIDataCapture\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\APIDataCapture\Model\obj\Debug\Model.dll
+C:\Users\danny\source\repos\APIDataCapture\Model\obj\Debug\Model.pdb

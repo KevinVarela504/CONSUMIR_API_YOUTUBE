@@ -1,0 +1,9 @@
+C:\Users\danny\source\repos\APIDataCapture\Repository\bin\Debug\Repository.dll
+C:\Users\danny\source\repos\APIDataCapture\Repository\bin\Debug\Repository.pdb
+C:\Users\danny\source\repos\APIDataCapture\Repository\bin\Debug\Model.dll
+C:\Users\danny\source\repos\APIDataCapture\Repository\bin\Debug\Model.pdb
+C:\Users\danny\source\repos\APIDataCapture\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\APIDataCapture\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\APIDataCapture\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\danny\source\repos\APIDataCapture\Repository\obj\Debug\Repository.dll
+C:\Users\danny\source\repos\APIDataCapture\Repository\obj\Debug\Repository.pdb
